@@ -2,12 +2,13 @@
 
 **Name:** Muhammad Awais Jamil  
 **Degree:** Bachelor of Science in Computer Science (BSCS) (4 years)   
-**Target Program:** MSc Artificial Intelligence and Data Science (University of Kassel)
+**Institute:** Khwaja Fareed University of Engineering & Information Technology (KFUEIT)
 
 ---
 
 ## Portfolio Overview
 
-- **[Final Year Project](./01-Final-Year-Project/):** Machine Learning Based Food Classification (Code, Report, & GUI)
-- **[Module Handbook / Syllabus](./02-Module-Handbook/):** Official Course Outlines for Subject Mapping & ECTS Evaluation
+- **[Final Year Project](./01-Final-Year-Project/):** Machine Learning Based Food Classification (Final Year Project)
+- **[Module Handbook / Syllabus](./02-Module-Handbook/):** Official Course Content and Outlines
 - **[Certificates & Achievements](./03-Certificates-and-Achievements/):** Additional academic & technical certifications
+- **[Letters of Recommendation](./04-Letters-of-Recommendations/):** Academic recommendation letters from university professors and academic supervisors.
